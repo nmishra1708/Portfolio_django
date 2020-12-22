@@ -26,7 +26,7 @@ SECRET_KEY = 'm1h$=x$h_s*jr50%!@e^!#=(3o(!rkcj-nri)v7lk4rkzxl=rv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nitinkmishraportfolio.herokuapp.com']
 
 
 # Application definition
